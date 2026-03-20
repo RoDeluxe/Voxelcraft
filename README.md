@@ -100,7 +100,7 @@ voxelcraft/
 ├── romfs/
 │   ├── shaders/     # Shaders compilados (.dksh)
 │   └── textures/    # Atlas de texturas
-├── icon.jpg         # Icono del homebrew (256x256)
+├── icon.jpg         
 └── Makefile
 ```
 

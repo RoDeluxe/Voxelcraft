@@ -1,10 +1,7 @@
 # 🟩 Voxelcraft
 > Un clon de Minecraft hecho en C como homebrew para Nintendo Switch
 
-![Version](https://img.shields.io/badge/version-1.0.0-green)
-![Platform](https://img.shields.io/badge/platform-Nintendo%20Switch-red)
-![Language](https://img.shields.io/badge/language-C-blue)
-![CFW](https://img.shields.io/badge/CFW-Atmosphere-purple)
+![voxelcraft](https://github.com/user-attachments/assets/90598a89-ed7c-4fc1-af8c-832f9e4fdc7c)
 
 ---
 

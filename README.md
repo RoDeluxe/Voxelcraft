@@ -31,8 +31,7 @@ Desarrollado completamente en **C** usando **deko3d**, la API gráfica nativa de
 ```
 SD:/switch/voxelcraft/voxelcraft.nro
 ```
-3. Abre el **Homebrew Launcher** en tu Switch
-4. Selecciona **Voxelcraft** y presiona **A** para lanzar
+3. Puedes lanzarlo desde sphaira o desde la galeria de la swich 
 
 ---
 
